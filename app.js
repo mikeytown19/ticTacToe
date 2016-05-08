@@ -26,8 +26,6 @@ var clearBoard;
 
 
 
-
-
 // PLACES AN X OR O IN THE BOX WHEN CLICKED. TOGGLES.
 var newGame = function () {
     $('td').one('click', function (event) {
